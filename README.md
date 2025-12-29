@@ -128,4 +128,3 @@ pip install torch pandas numpy matplotlib scikit-learn gradio joblib
 ## İletişim
 Halit Ersoy
 İstanbul Medeniyet Üniversitesi - Bilgisayar Mühendisliği
-Bilim ve Mühendislik Topluluğu (BMT) Başkanı
